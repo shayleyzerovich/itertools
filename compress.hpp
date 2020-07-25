@@ -1,6 +1,3 @@
-//
-// Created by nati on 08/06/2020.
-//
 
 #ifndef CPPEX5_ITERTOOLS_COMPRESS_HPP
 #define CPPEX5_ITERTOOLS_COMPRESS_HPP
