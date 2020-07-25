@@ -1,6 +1,4 @@
-//
-// Created by nati on 10/06/2020.
-//
+
 
 #include "doctest.h"
 #include <iostream>
